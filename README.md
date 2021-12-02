@@ -1,2 +1,2 @@
-# SergeySlobodchikov.github.io
+# Сергей Слободчиков
 Мой первый сайт
